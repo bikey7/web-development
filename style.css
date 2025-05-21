@@ -156,7 +156,7 @@ footer{
 .go-to-top svg{
     fill: orange;
 }
-@media (max-width: 768px){ /mobile responsive code/
+@media (max-width: 768px){ /*mobile responsive code*/
     fotter{ 
         background-color: brown;
     }
